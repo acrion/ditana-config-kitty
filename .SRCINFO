@@ -1,0 +1,17 @@
+pkgbase = ditana-config-kitty
+	pkgdesc = Ditana kitty configuration
+	pkgver = 1.08
+	pkgrel = 1
+	url = https://ditana.org
+	arch = any
+	license = GPL-3.0-only.txt
+	depends = kitty
+	depends = imagemagick
+	depends = python-pygments
+	depends = libcanberra
+	source = file:///media/stefan/data/Documents/git/my-projects/acrion/ditana/packages/001-ditana-config-kitty/kitty.conf
+	source = file:///media/stefan/data/Documents/git/my-projects/acrion/ditana/packages/001-ditana-config-kitty/ditana-logo-tiny.png
+	sha256sums = SKIP
+	sha256sums = SKIP
+
+pkgname = ditana-config-kitty
