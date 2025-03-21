@@ -1,6 +1,6 @@
 pkgbase = ditana-config-kitty
 	pkgdesc = Ditana kitty configuration
-	pkgver = 1.08
+	pkgver = 1.09
 	pkgrel = 1
 	url = https://ditana.org
 	arch = any

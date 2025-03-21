@@ -1,7 +1,7 @@
 # Maintainer: Stefan Zipproth <s.zipproth@ditana.org>
 
 pkgname=ditana-config-kitty
-pkgver=1.08
+pkgver=1.09
 pkgrel=1
 pkgdesc="Ditana kitty configuration"
 arch=(any)
